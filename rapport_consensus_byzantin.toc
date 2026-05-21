@@ -1,0 +1,13 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{Remerciements}{2}{section*.2}%
+\contentsline {section}{Introduction Générale}{3}{section*.3}%
+\contentsline {section}{\numberline {1}Chapitre 1 : Contexte Général et Problématique}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Présentation du Projet}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}La Problématique et l'Objectif}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Chapitre 2 : Étude Technique et Conception}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Le Protocole de Consensus PBFT}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Sécurisation Cryptographique}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Chapitre 3 : Réalisation, Expérimentation et Évaluation}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Architecture Logicielle de notre Système}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Simulations d'Attaques et Résultats Réels}{4}{subsection.3.2}%
+\contentsline {section}{Conclusion Générale}{4}{section*.4}%

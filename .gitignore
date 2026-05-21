@@ -1,0 +1,28 @@
+# Build
+target/
+*.class
+*.jar
+!src/
+
+# Maven
+dependency-reduced-pom.xml
+apache-maven-*/
+maven.tar.gz
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Certificates (generated)
+certs/
+
+# Docker
+*.log
