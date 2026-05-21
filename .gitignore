@@ -26,3 +26,10 @@ certs/
 
 # Docker
 *.log
+
+# TeX & Python Generator
+*.tex
+*.py
+*.pyc
+__pycache__/
+
